@@ -9,7 +9,7 @@ I have been assigned a project titled Healthcare Data Analysis, where I am respo
    
 3. Load all the sheets into these tables as per the names mentioned in excel workbook
    
-## 4. Answer below questions and submit your sql file to admin team for assessment-
+## Answer below questions and submit your sql file to admin team for assessment-
     
 Question 1. How many rows of data are in the FactTable that include a Gross Charge greater than $100? 
 
