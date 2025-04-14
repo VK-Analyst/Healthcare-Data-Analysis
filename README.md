@@ -1,5 +1,5 @@
 # Healthcare-Data-Analysis
-I have been assigned a project titled Healthcare Data Analysis, where I am responsible for writing SQL queries to address the following business scenarios based on the data in the Complete_Healthcare_Dataset Excel:
+I have been assigned a project on Healthcare sector, where I am responsible for writing SQL queries to address the following business scenarios based on the dataset in the Complete_Healthcare_Dataset Excel:
 
 ## Write a query for the following situations:
 
