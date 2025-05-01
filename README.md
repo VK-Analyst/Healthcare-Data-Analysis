@@ -60,7 +60,7 @@ are the other dollars and why aren't they being collected? What does this mean?
 
 # Healthcare Dashboard
 
-![Dashboard](https://github.com/user-attachments/assets/6c074fca-76a6-4de4-ad58-f997783fa940)
+![Dashboard](https://github.com/user-attachments/assets/034b17b1-50cb-4c01-a288-e98ea3f8d26a)
 
 ## 📊 Features
 
