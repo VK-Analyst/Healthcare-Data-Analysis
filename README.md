@@ -57,3 +57,23 @@ are the other dollars and why aren't they being collected? What does this mean?
 - CountofPatients
 - GrossCharge
 - AverageChargeperPatients 
+
+# Healthcare Dashboard
+
+![Dashboard](https://github.com/user-attachments/assets/6c074fca-76a6-4de4-ad58-f997783fa940)
+
+## 📊 Features
+
+1. **Patients and Physicians per Location**  
+   Shows the number of patients and physicians available in each location.
+
+2. **Gross Collection Rate (GCR) per Location**  
+   Displays the GCR for each location.
+
+3. **Net Charge by Provider Specialty**  
+   A bar chart showing the total net charges grouped by provider specialty.
+
+4. **Net Charge by Month**  
+   Line chart visualizing monthly trends in net charges over time.
+
+---
